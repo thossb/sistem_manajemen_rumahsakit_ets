@@ -1,48 +1,10 @@
-# Laravel 10 CRUD and Image Upload Tutorial with Laravel Breeze and Repo Example
-This is an implementation of Laravel CRUD tutorial. A blog about this can be found here: [Laravel 10 CRUD and Image Upload Tutorial with Laravel Breeze and Repo Example | Fajarwz](https://fajarwz.com/blog/laravel-10-crud-and-image-upload-tutorial-with-laravel-breeze-and-repo-example/).
-
-## Installation
-
-### Composer Packages 
-```
-composer install
-```
-
-## Configuration
-
-### Create `.env` file from `.env.example`
-```
-cp .env.example .env
-```
-
-### Generate Laravel App Key
-```
-php artisan key:generate
-```
-
-### Database Integration
-1. Open `.env` file
-2. Create a database and connect it with Laravel with filling the DB name in `DB_DATABASE` key
-3. Adjust the `DB_USERNAME`
-4. Adjust the `DB_PASSWORD`
-
-### Migrate the Database Migration and Run the Seeder
-```
-php artisan migrate
-```
-
-## Run App
-Install NPM packages first
-```
-npm install
-```
-
-Run local web server
-```
-php artisan serve
-```
-
-Open new console and run the app with Vite
-```
-npm run dev
-```
+![WhatsApp Image 2023-10-25 at 15 17 55_75be605c](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/f4bab280-97cc-4278-a768-10eefd1401f0)
+![WhatsApp Image 2023-10-25 at 15 18 17_28fcf2d7](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/2841195b-4c80-4cb8-ad6b-63584e7f8073)
+![WhatsApp Image 2023-10-25 at 15 18 35_a5b89d42](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/3f6badc3-c5e0-446b-84ad-10f69b54204e)
+![WhatsApp Image 2023-10-25 at 15 23 21_91325413](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/d5e39ef5-6272-4ddc-bc26-eb9c87f71989)
+![WhatsApp Image 2023-10-25 at 15 23 37_7c69c62c](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/0625b817-181c-4d2c-8763-b94684dbf08c)
+![WhatsApp Image 2023-10-25 at 15 23 59_c547212f](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/b9817b84-3b37-46fe-bca9-5a05772ff8f2)
+![WhatsApp Image 2023-10-25 at 15 24 35_2e92119f](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/427fbf67-d2b4-4b95-97f9-bcc5155d7105)
+![WhatsApp Image 2023-10-25 at 15 24 52_8e561442](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/166932f9-9285-4cd4-a776-22dda4612793)
+![WhatsApp Image 2023-10-25 at 15 25 14_b47b19ee](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/f94959eb-9f09-44d4-b257-70da0e92e351)
+![image](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/6182639d-f0fe-415d-8416-e6429c89749c)
