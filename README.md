@@ -5,6 +5,6 @@
 ![WhatsApp Image 2023-10-25 at 15 23 37_7c69c62c](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/0625b817-181c-4d2c-8763-b94684dbf08c)
 ![WhatsApp Image 2023-10-25 at 15 23 59_c547212f](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/b9817b84-3b37-46fe-bca9-5a05772ff8f2)
 ![WhatsApp Image 2023-10-25 at 15 24 35_2e92119f](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/427fbf67-d2b4-4b95-97f9-bcc5155d7105)
-![WhatsApp Image 2023-10-25 at 15 24 52_8e561442](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/166932f9-9285-4cd4-a776-22dda4612793)
+![image](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/ee2d5385-6e71-490d-be40-f59de13e6c91)
 ![WhatsApp Image 2023-10-25 at 15 25 14_b47b19ee](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/f94959eb-9f09-44d4-b257-70da0e92e351)
 ![image](https://github.com/thossb/sistem_manajemen_rumahsakit_ets/assets/90438426/6182639d-f0fe-415d-8416-e6429c89749c)
